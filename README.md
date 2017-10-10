@@ -4,5 +4,5 @@ This project is to detect a turning point in the experimental data. The algorith
 
 It takes up to nine curves at the same time and has the following GUI window.
 
-![gui](https://user-images.githubusercontent.com/8492535/31149782-b9fdefe8-a856-11e7-96bd-393b3c7a1688.png)
+![collage](https://user-images.githubusercontent.com/8492535/31413383-87fa8dd4-adde-11e7-84ff-bc3c625e944b.png)
 
